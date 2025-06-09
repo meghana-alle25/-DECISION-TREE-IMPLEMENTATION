@@ -12,4 +12,8 @@
 
 *MENTOR*: NEELA SANTHOSH
 
+*OUTPUT*
+
+![Image](https://github.com/user-attachments/assets/053a2292-f454-4b53-9e71-0bf0878b8f36)
+
 500 WORDS
